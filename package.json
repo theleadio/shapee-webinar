@@ -1,0 +1,25 @@
+{
+  "name": "shopee-template",
+  "version": "1.0.0",
+  "description": "Kickstart template for NuxtJS website",
+  "author": "LEAD",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/components": "^1.1.0",
+    "@nuxtjs/axios": "^5.12.1",
+    "autoprefixer": "^9.8.6",
+    "npm": "^6.14.9",
+    "nuxt": "^2.14.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.2.0"
+  }
+}
